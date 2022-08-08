@@ -5,6 +5,8 @@
 + Add some style:
    * style (header , footer , backgrounds, font colors, google fonts , Use flex)
 
+I took whole day to complete the assignment
+
 
 
 
